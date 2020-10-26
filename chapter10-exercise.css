@@ -72,4 +72,15 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+  main {
+    width: 100%;
+    display: block;
+  }
+
+  .content, .content:nth-child(2) {
+    width: 90%;
+    margin: 20px auto;
+  }
+
+  
 }
