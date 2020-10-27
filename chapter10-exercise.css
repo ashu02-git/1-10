@@ -11,7 +11,7 @@ header {
 
 header,
 footer {
-  min-width: 960px; /* ブラウザの横幅960px以下でも空白できない*/
+  min-width: 960px; /* ブラウザの横幅960px以下でも端まで表示*/
 }
 
 main {
